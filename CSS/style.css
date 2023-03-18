@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+body {
+    background-color: black;
+    color: #F6F6F6;
+}
+
+.title-emphasis {
+    color: #22D4FD;
+}
